@@ -1,0 +1,16 @@
+{
+  "name": "dependency-tree",
+  "version": "1.0.0",
+  "description": "Export a snapshot of the dependency tree encoded as .json.",
+  "main": "snapshot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "args": "^3.0.8",
+    "connect": "^3.6.6",
+    "get-port": "^3.2.0",
+    "serve-static": "^1.13.2",
+    "webshot": "^0.18.0"
+  }
+}
